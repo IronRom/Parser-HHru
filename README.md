@@ -1,20 +1,8 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <h3 align="center">hh_scraper</h3>
+# Парсер вакансий hh.ru
 
-  <p align="center">
-    Парсер вакансий с hh.ru — скачивает вакансии в Markdown-файлы через headless Chrome
-    <br />
-    <a href="#использование">Быстрый старт</a>
-    &middot;
-    <a href="#параметры">Параметры</a>
-    &middot;
-    <a href="#env-файл">Конфигурация .env</a>
-  </p>
-</div>
+Скачивает вакансии с hh.ru в Markdown-файлы через headless Chrome. Поддерживает фильтрацию по регионам, формату работы и типу занятости.
 
 ---
 

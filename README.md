@@ -67,13 +67,7 @@
 
 ### Установка
 
-1. Клонировать репозиторий или скопировать файлы:
-   ```sh
-   git clone <repo-url>
-   cd DevOpsPath
-   ```
-
-2. Установить зависимости:
+1. Установить зависимости:
    ```sh
    pip install selenium webdriver-manager python-dotenv
    ```
